@@ -198,8 +198,10 @@ def ListClear():
 
 print('\n')
 bbrr('=')
-print('=', '--- Список методов для работы со списками: ---'.center(99), '=')
+print('=', '--- Методы для работы со списками: ---'.center(99), '=')
 bbrr('=')
+print('https://egoroffartem.pythonanywhere.com/course/python/spiski-i-ikh-metodi')
+# https://egoroffartem.pythonanywhere.com/course/python/spiski-i-ikh-metodi
 print()
 
 br('-')
@@ -248,9 +250,27 @@ br('-')
 print('--- list.clear()                     очищает список. ---')
 br('-')
 ListClear()
-br('=')
+br('-')
 
-
+bbrr('=')
+print('=', '--- Методы для работы с кортежами: ---'.center(99), '=')
+bbrr('=')
+print('\n', 'https://egoroffartem.pythonanywhere.com/course/python/kortezhi-tuple-operatsii-i-metodi-kortezhej'.center(99))
+# https://egoroffartem.pythonanywhere.com/course/python/kortezhi-tuple-operatsii-i-metodi-kortezhej
+br('-')
+bbrr('=')
+print('=', '--- Методы для работы со словарями: ---'.center(99), '=')
+bbrr('=')
+print('\n', 'https://egoroffartem.pythonanywhere.com/course/python/slovari-python-operatsii-i-metodi-slovarya'.center(99))
+# https://egoroffartem.pythonanywhere.com/course/python/slovari-python-operatsii-i-metodi-slovarya
+br('-')
+bbrr('=')
+print('=', '--- Методы для работы со множествами: ---'.center(99), '=')
+bbrr('=')
+print('\n', 'https://egoroffartem.pythonanywhere.com/course/python/mnozhestva-v-python-tip-dannikh-set'.center(99))
+# https://egoroffartem.pythonanywhere.com/course/python/mnozhestva-v-python-tip-dannikh-set
+br('-')
 # [ ] -------------------------------------------------<-<-<-
+br('=')
 print()
 
